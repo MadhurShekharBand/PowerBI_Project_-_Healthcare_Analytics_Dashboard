@@ -32,7 +32,6 @@ I am trying to analyse how patient visits vary by age group and gender, which wi
 - **How do age and race influence healthcare needs and preferences?** <br>
 I am trying to understand how different age groups and races have varying healthcare needs, preferences, and expectations, so we can tailor our services to be more inclusive and responsive to diverse patient populations.
 
-
 ### About the Dataset:
 The dataset used for this project is a hospital emergency room (ER) dataset which includes information on patients' visits, capturing key details such as patient demographics (age, gender, race), satisfaction scores, administrative flags, wait times, and departmental referrals. The data spans multiple dates in 2019 and 2020 and reflects a mix of emergency visits with varying patient backgrounds. It reveals patterns such as the diversity of patients by age and race, wait times for different categories of visits, and whether administrative processes were involved. Referrals to specific departments, like Orthopaedics or General Practice, are also recorded, providing insights into the types of care sought by patients.
 
