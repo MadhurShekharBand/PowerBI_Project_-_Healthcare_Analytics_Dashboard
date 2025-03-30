@@ -10,7 +10,7 @@ This project focuses on creating a dynamic healthcare analytics dashboard using 
 - **Dashboard Canvas Background:** I created the dashboard’s canvas background in Microsoft Office PowerPoint and then saved the final product as an JPEG image. Both the files are available here: [Dashboard Canvas Background](https://github.com/MadhurShekharBand/PowerBI_Project_-_Healthcare_Analytics_Dashboard/tree/d60c688daa1a49f080437ef723a7fe4b6cdfffd4/Dashboard%20Canvas%20Background)
 
 # Background:
-### The questions I wanted to answer through my SQL queries were:
+### The questions I wanted to answer through this project were:
 - **What is the average wait time for patients before their appointments?** <br>
 I am trying to find out the typical duration patients wait before seeing a healthcare provider. This helps assess the efficiency of our healthcare system and identify areas where improvements could be made.
 
